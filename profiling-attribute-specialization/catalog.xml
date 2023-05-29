@@ -1,0 +1,4 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <public publicId="-//OXYGENXML//CUSTOM//TOPIC//EN" uri="dtd/topic.dtd"/>
+  <public publicId="-//OXYGENXML//CUSTOM//MAP//EN" uri="dtd/map.dtd"/>
+</catalog>
